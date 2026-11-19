@@ -1,4 +1,4 @@
-# Sistema de Gestão Escolar
+Harmonia de Instrumentos musicais
 
 Aplicação web simples para cadastrar e acompanhar alunos. A interface usa fundo branco,
 menu direto, formulário e tabela, seguindo o estilo comum de sistemas escolares.
